@@ -1,7 +1,7 @@
 body {
   margin: 0;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f0f2f5; /* Gris muy suave para un fondo neutro y relajante */
+  background-color: #f0f2f5;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -10,7 +10,7 @@ body {
 }
 
 .header-chat {
-  background: linear-gradient(135deg, #667eea, #764ba2); /* Degradado morado-azul elegante */
+  background: linear-gradient(135deg, #667eea, #764ba2); 
   color: #fff;
   width: 100%;
   padding: 15px 20px;
